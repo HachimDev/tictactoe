@@ -31,6 +31,7 @@ class Board extends React.Component {
         }
 
         if (utils.areAllTilesClicked(tiles)) {
+            this.props.dispatch({ type: ADD_SCORE, payload:{ playerX: '-', playerO: '-' }});
             this.setState(() => {
                 return {
                     status: 'Egalité'
