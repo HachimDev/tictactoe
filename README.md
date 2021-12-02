@@ -14,5 +14,4 @@ You will also see any lint errors in the console.
 
 ## Test Front End
 
-Ce projet est un test front de George Tech fait le 15 Mars 2020
-Durée du test : 4 heures
+Ce projet est un test fait le 15 Mars 2020
